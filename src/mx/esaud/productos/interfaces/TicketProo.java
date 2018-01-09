@@ -11,4 +11,8 @@ package mx.esaud.productos.interfaces;
  */
 public interface TicketProo {
     
+    public Boolean generaTicke(String id);
+    
+    
+    
 }
