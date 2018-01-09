@@ -15,4 +15,6 @@ public interface TicketProo {
     
     public Boolean imprimeTicket(String id);
 
+ //Soy el proo   
 }
+
