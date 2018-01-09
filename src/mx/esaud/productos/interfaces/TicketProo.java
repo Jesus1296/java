@@ -13,6 +13,6 @@ public interface TicketProo {
     
     public Boolean generaTicke(String id);
     
-    
-    
+    public Boolean imprimeTicket(String id);
+
 }
