@@ -14,7 +14,10 @@ public interface TicketProo {
     public Boolean generaTicke(String id);
     
     public Boolean imprimeTicket(String id);
-
+ public void hola();
+    public void soy();
+    public void proo();
+    
  //Soy el proo   
     // Soy el Israel
 }
