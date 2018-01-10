@@ -12,6 +12,6 @@ package mx.esaud.productos.interfaces;
 public interface TicketKenia {
     public void hola();
     public void soy();
-    public void keninia();
+    public void kenia();
     
 }
